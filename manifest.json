@@ -2,7 +2,7 @@
   "name": "ADHDesk - Sliding Desk Puzzle",
   "short_name": "ADHDesk",
   "description": "A fun sliding puzzle game with office desk items",
-  "start_url": "./index.html",
+  "start_url": "./adhdesk.html",
   "display": "standalone",
   "background_color": "#C9B99A",
   "theme_color": "#8B6F47",
